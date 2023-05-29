@@ -19,15 +19,13 @@ Oyunu çalıştırmak için aşağıdaki adımları izleyin:
 
 
 ## Ekran Görüntüleri
-![1](https://github.com/kagantemizkan/python-number-matching/assets/46727689/59d6e8b2-288e-4bf7-944c-768af3f16094) ![2](https://github.com/kagantemizkan/python-number-matching/assets/46727689/99b298c0-f60a-4a91-9fb9-53910a315615)
+![1](https://github.com/kagantemizkan/python-number-matching/assets/46727689/59d6e8b2-288e-4bf7-944c-768af3f16094)
+
+![2](https://github.com/kagantemizkan/python-number-matching/assets/46727689/99b298c0-f60a-4a91-9fb9-53910a315615) ![3](https://github.com/kagantemizkan/python-number-matching/assets/46727689/fe724e82-313b-4fbc-a356-cf53715b7e04)
 
 
 
-![3](https://github.com/kagantemizkan/python-number-matching/assets/46727689/fe724e82-313b-4fbc-a356-cf53715b7e04)
-
-![4](https://github.com/kagantemizkan/python-number-matching/assets/46727689/b05b74f2-76d5-403d-a330-39c8fa281b81)
-
-![5](https://github.com/kagantemizkan/python-number-matching/assets/46727689/e34738d7-3300-42d4-a1d1-9e8030418e8f)
+![5](https://github.com/kagantemizkan/python-number-matching/assets/46727689/e34738d7-3300-42d4-a1d1-9e8030418e8f) ![4](https://github.com/kagantemizkan/python-number-matching/assets/46727689/b05b74f2-76d5-403d-a330-39c8fa281b81)
 
 
 
