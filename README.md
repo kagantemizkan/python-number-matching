@@ -19,9 +19,9 @@ Oyunu çalıştırmak için aşağıdaki adımları izleyin:
 
 
 ## Ekran Görüntüleri
-![1](https://github.com/kagantemizkan/python-number-matching/assets/46727689/59d6e8b2-288e-4bf7-944c-768af3f16094)
+![1](https://github.com/kagantemizkan/python-number-matching/assets/46727689/59d6e8b2-288e-4bf7-944c-768af3f16094) ![2](https://github.com/kagantemizkan/python-number-matching/assets/46727689/99b298c0-f60a-4a91-9fb9-53910a315615)
 
-![2](https://github.com/kagantemizkan/python-number-matching/assets/46727689/99b298c0-f60a-4a91-9fb9-53910a315615)
+
 
 ![3](https://github.com/kagantemizkan/python-number-matching/assets/46727689/fe724e82-313b-4fbc-a356-cf53715b7e04)
 
