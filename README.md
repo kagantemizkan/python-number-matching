@@ -7,9 +7,9 @@ Bu, Python'da basit bir sayı eşleştirme oyunudur. Oyunun amacı, oyun tahtas�
 ## Başlarken
 Oyunu çalıştırmak için aşağıdaki adımları izleyin:
 
-    1. Sisteminizde Python'un yüklü olduğundan emin olun.
-    2. Proje dosyalarını indirin ve proje dizinine gidin.
-    3. Proje dizininde bir komut istemi veya terminal açın.
+   1. Sisteminizde Python'un yüklü olduğundan emin olun.
+   2. Proje dosyalarını indirin ve proje dizinine gidin.
+   3. Proje dizininde bir komut istemi veya terminal açın.
 
 
 ## Önkoşullar
